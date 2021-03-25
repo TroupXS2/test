@@ -1,0 +1,17 @@
+.title{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+    background-color: rgb(138, 69, 202);
+}
+h2{
+    color:red;
+    text-align: center;
+    background-color: rgb(156, 102, 206);
+}
+#Da_bois{
+    border-style: solid;
+}
+#test:hover {
+    color:aqua;
+}
